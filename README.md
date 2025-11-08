@@ -72,7 +72,7 @@ This script performs and plots **four main analyses**:
 
 To run this project locally, clone the repository, install dependencies, and execute the analysis script.
 
-### 1️⃣ Clone the repository (replace with your own repo URL):
+### 1️⃣ Clone the repository:
 ```bash
 git clone https://github.com/Madhesh-voidx/Trader_sentiment_analysis.git
 ```
